@@ -32,4 +32,6 @@ custom path will return file you config.
 curl "http://localhost:8080/custom"
 ```
 
-Note: the application/json request have not complete.  
+Note: 
+1. the application/json request have not complete.
+2. the server port is 8080  
