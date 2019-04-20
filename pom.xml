@@ -11,7 +11,6 @@
 	<groupId>cn.lvxg.development</groupId>
 	<artifactId>mock-http-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
 	<description>http server for development and test</description>
 
 	<properties>
